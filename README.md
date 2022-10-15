@@ -1,2 +1,1 @@
-# Antigone-Semiotics-Club-Articles
-符号社Antigone文章
+# 本项目用于符号社Antigone文章留档
