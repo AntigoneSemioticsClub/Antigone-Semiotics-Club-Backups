@@ -35,4 +35,4 @@ TG频道：https://t.me/antigonesemioticsclubchannel
 
 小黑盒（不常用）：戏作三昧 
 
-知乎（暂时未用）：符号社Antigone
+知乎（暂未启用）：符号社Antigone
