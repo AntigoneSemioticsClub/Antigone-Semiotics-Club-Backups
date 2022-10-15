@@ -1,3 +1,5 @@
+![](https://preview.redd.it/gsrdirl9txa91.png?width=1890&format=png&auto=webp&s=c5703b0797f13740cc6890b6adbbaed02c435b1f)
+
 # 本项目用于符号社Antigone留档
 
 文章版权均归其中注明的作者所有，欢迎大家转载分享，但是需要注明出处。
