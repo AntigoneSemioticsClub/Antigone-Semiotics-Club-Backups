@@ -19,3 +19,20 @@ __该目录下的MD格式文章均为最新（相较于公众号）且有所改�
 ## 关于下载
 
 下载可以通过Git或是上方的Code按钮中的Download ZIP来下载整个项目。如果需要下载单个文件或是文件夹，可以通过Git、各种代下网站或是工具下载，相关教程、工具及网站可自行搜索，在此不在赘述。
+
+# 我们各平台的账号：
+微信公众号：符号社Antigone
+
+B站：符号社Antigone
+
+油管：Antigone Semiotics Club
+
+Reddit Sub：r/SemioticsClub
+
+TG群：https://t.me/antigonesemioticsclub
+
+TG频道：https://t.me/antigonesemioticsclubchannel
+
+小黑盒（不常用）：戏作三昧 
+
+知乎（暂时未用）：符号社Antigone
