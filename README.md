@@ -14,25 +14,37 @@ __该目录下的MD格式文章均为最新（相较于公众号）无修正且�
 
 ## 视频部分
 
-施工中。
+下面视频链接以时间为序：
+
++ [深度解析游戏：《以撒的结合》为什么不仅仅是宗教悲剧？](https://www.bilibili.com/video/BV1ua411t7R4/)
++ [女性到底想要什么？——从性别对立到主体与他者的对立](https://www.bilibili.com/video/BV1dS4y1A72x)
++ ["虚拟主播的粉丝错在哪里"——纯粹符号躯体背后的主体异化](https://www.bilibili.com/video/BV19A4y1S7sK)
++ [解读英雄联盟动画——社会的创伤性内核](https://www.bilibili.com/video/BV1o94y1m7dG)
++ [如何构建一个纯粹形式家庭？——对动画《间谍过家家》的简单分析](https://www.bilibili.com/video/BV1JT411g7Rg)
++ [我去，你们说的那个UP是小布——对视频《二舅》的批判](https://www.bilibili.com/video/BV1RG4y1v7hk)
++ [李易峰和奶奶——在两种死亡之间](https://www.bilibili.com/video/BV1fD4y1v7HQ)
++ [【中英字幕】不可能的交换（1999）——鲍德里亚](https://www.bilibili.com/video/BV1HG4y1s7Vz)
++ [【中英字幕】齐泽克五个最爱的电影](https://www.bilibili.com/video/BV1Qe4y1t7g9)
++ [为什么必须要抽干水来抓捕入侵物种？——意识形态的崇高客体](https://www.bilibili.com/video/BV1314y187nX)
 
 ## 关于下载
 
 下载可以通过Git或是上方的Code按钮中的Download ZIP来下载整个项目。如果需要下载单个文件或是文件夹，可以通过Git、各种代下网站或是工具下载，相关教程、工具及网站可自行搜索，在此不在赘述。
 
 # 我们各平台的账号：
-微信公众号：符号社Antigone
 
-B站：符号社Antigone
++ 微信公众号：符号社Antigone
 
-油管：Antigone Semiotics Club
++ B站：[符号社Antigone](https://space.bilibili.com/1275291093)
 
-Reddit Sub：r/SemioticsClub
++ 油管：[Antigone Semiotics Club](https://www.youtube.com/channel/UCsG5Ku6sdc-VcWe-hDrs1Fg)
 
-TG群：https://t.me/antigonesemioticsclub
++ Reddit Sub：r/SemioticsClub
 
-TG频道：https://t.me/antigonesemioticsclubchannel
++ TG群：https://t.me/antigonesemioticsclub
 
-小黑盒（不常用）：戏作三昧 
++ TG频道：https://t.me/antigonesemioticsclubchannel
 
-知乎（暂未启用）：符号社Antigone
++ 小黑盒（不常用）：戏作三昧 
+
++ 知乎（暂未启用）：符号社Antigone
