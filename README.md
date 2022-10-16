@@ -1,5 +1,3 @@
-![](https://preview.redd.it/gsrdirl9txa91.png?width=1890&format=png&auto=webp&s=c5703b0797f13740cc6890b6adbbaed02c435b1f)
-
 # 本项目用于符号社Antigone留档
 
 文章版权均归其中注明的作者所有，欢迎大家转载分享，但是需要注明出处。
@@ -15,7 +13,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无修正且�
 如有发现有的文件为空文件说明正在施工中，还请稍安勿躁。
 
 ## 视频部分
-
+B站已发布视频在线链接：
 下面视频链接以时间为序：
 
 + [深度解析游戏：《以撒的结合》为什么不仅仅是宗教悲剧？](https://www.bilibili.com/video/BV1ua411t7R4/)
@@ -50,3 +48,6 @@ __该目录下的MD格式文章均为最新（相较于公众号）无修正且�
 + 小黑盒（不常用）：戏作三昧 
 
 + 知乎（暂未启用）：符号社Antigone
+
+---
+![](https://preview.redd.it/gsrdirl9txa91.png?width=1890&format=png&auto=webp&s=c5703b0797f13740cc6890b6adbbaed02c435b1f)
