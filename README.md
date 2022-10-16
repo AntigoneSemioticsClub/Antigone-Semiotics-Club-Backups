@@ -55,3 +55,5 @@ B站已发布视频在线链接（下面视频链接以时间为序）：
 
 ---
 ![](https://preview.redd.it/gsrdirl9txa91.png?width=1890&format=png&auto=webp&s=c5703b0797f13740cc6890b6adbbaed02c435b1f)
+
+> 上方二维码为微信公众号，欢迎关注。
