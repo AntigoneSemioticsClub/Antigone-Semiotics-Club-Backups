@@ -39,7 +39,7 @@ B站已发布视频在线链接：
 
 + 油管：[Antigone Semiotics Club](https://www.youtube.com/channel/UCsG5Ku6sdc-VcWe-hDrs1Fg)
 
-+ Reddit Sub：r/SemioticsClub
++ Reddit Sub：[r/SemioticsClub](https://www.reddit.com/r/SemioticsClub/)
 
 + TG群：https://t.me/antigonesemioticsclub
 
