@@ -13,8 +13,9 @@ __该目录下的MD格式文章均为最新（相较于公众号）无修正且�
 如有发现有的文件为空文件说明正在施工中，还请稍安勿躁。
 
 ## 视频部分
-B站已发布视频在线链接：
-下面视频链接以时间为序：
+B站已发布视频在线链接（下面视频链接以时间为序）：
+
+自制部分：
 
 + [深度解析游戏：《以撒的结合》为什么不仅仅是宗教悲剧？](https://www.bilibili.com/video/BV1ua411t7R4/)
 + [女性到底想要什么？——从性别对立到主体与他者的对立](https://www.bilibili.com/video/BV1dS4y1A72x)
@@ -23,9 +24,12 @@ B站已发布视频在线链接：
 + [如何构建一个纯粹形式家庭？——对动画《间谍过家家》的简单分析](https://www.bilibili.com/video/BV1JT411g7Rg)
 + [我去，你们说的那个UP是小布——对视频《二舅》的批判](https://www.bilibili.com/video/BV1RG4y1v7hk)
 + [李易峰和奶奶——在两种死亡之间](https://www.bilibili.com/video/BV1fD4y1v7HQ)
++ [为什么必须要抽干水来抓捕入侵物种？——意识形态的崇高客体](https://www.bilibili.com/video/BV1314y187nX)
+
+翻译部分：
+
 + [【中英字幕】不可能的交换（1999）——鲍德里亚](https://www.bilibili.com/video/BV1HG4y1s7Vz)
 + [【中英字幕】齐泽克五个最爱的电影](https://www.bilibili.com/video/BV1Qe4y1t7g9)
-+ [为什么必须要抽干水来抓捕入侵物种？——意识形态的崇高客体](https://www.bilibili.com/video/BV1314y187nX)
 
 ## 关于下载
 
