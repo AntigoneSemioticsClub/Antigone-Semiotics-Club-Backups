@@ -13,6 +13,13 @@ __该目录下的MD格式文章均为最新（相较于公众号）无修正且�
 部分带图的文章PDF备份在“PDF”文件夹中。 
 
 ## 视频部分
+
+### 下载
+
+无修文件下载：[OneDrive](https://107chj-my.sharepoint.com/:f:/g/personal/asc_107chj_onmicrosoft_com/EoFQCV5POXFLqTgFseYbewwBJfOMhCkD0f5-0Y219BPP0g?e=D6eHM8)
+
+### 在线
+
 B站已发布视频在线链接（下面视频链接以时间为序）：
 
 自制部分：
@@ -21,7 +28,7 @@ B站已发布视频在线链接（下面视频链接以时间为序）：
 + [女性到底想要什么？——从性别对立到主体与他者的对立](https://www.bilibili.com/video/BV1dS4y1A72x)
 + ["虚拟主播的粉丝错在哪里"——纯粹符号躯体背后的主体异化](https://www.bilibili.com/video/BV19A4y1S7sK)
 + [解读英雄联盟动画——社会的创伤性内核](https://www.bilibili.com/video/BV1o94y1m7dG)
-+ [如何构建一个纯粹形式家庭？——对动画《间谍过家家》的简单分析](https://www.bilibili.com/video/BV1JT411g7Rg)
++ [如何构建一个纯粹形式家庭？——对动画《间谍过家家》的简单分析](https://www.bilibili.com/video/BV1JT411g7Rg)（有打码消音）
 + [我去，你们说的那个UP是小布——对视频《二舅》的批判](https://www.bilibili.com/video/BV1RG4y1v7hk)
 + [李易峰和奶奶——在两种死亡之间](https://www.bilibili.com/video/BV1fD4y1v7HQ)
 + [为什么必须要抽干水来抓捕入侵物种？——意识形态的崇高客体](https://www.bilibili.com/video/BV1314y187nX)
