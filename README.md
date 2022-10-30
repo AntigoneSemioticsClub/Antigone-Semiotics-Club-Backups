@@ -36,7 +36,7 @@ B站已发布视频在线链接（下面视频链接以时间为序）：
 + [我去，你们说的那个UP是小布——对视频《二舅》的批判](https://www.bilibili.com/video/BV1RG4y1v7hk)
 + [李易峰和奶奶——在两种死亡之间](https://www.bilibili.com/video/BV1fD4y1v7HQ)
 + [为什么必须要抽干水来抓捕入侵物种？——意识形态的崇高客体](https://www.bilibili.com/video/BV1314y187nX)
-+ [对《电锯人》的精神分析——对阉割的拒绝](https://www.bilibili.com/video/BV1gG411A7Kq/)
++ [对《电锯人》的精神分析——对阉割的拒绝](https://www.bilibili.com/video/BV1gG411A7Kq/)（有打码）
 
 翻译部分：
 
