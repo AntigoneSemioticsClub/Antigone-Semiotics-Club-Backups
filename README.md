@@ -51,9 +51,9 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 + B站：[符号社Antigone](https://space.bilibili.com/1275291093)
 
-+ 油管：[Antigone Semiotics Club](https://www.youtube.com/channel/UCsG5Ku6sdc-VcWe-hDrs1Fg)
++ 油管：[Antigone Semiotics Club](https://www.youtube.com/channel/UCsG5Ku6sdc-VcWe-hDrs1Fg)（不常用）
 
-+ Reddit Sub：[r/SemioticsClub](https://www.reddit.com/r/SemioticsClub/)
++ Reddit Sub：[r/SemioticsClub](https://www.reddit.com/r/SemioticsClub/)(不常用)
 
 + TG群：https://t.me/antigonesemioticsclub
 
