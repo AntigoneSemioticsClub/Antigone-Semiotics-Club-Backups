@@ -20,9 +20,9 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 >欢迎有能力的朋友为我们提供更多的下载或是在线观看方式，如网盘、BT、私有云等等。
 
-### 下载
+### 网盘
 
-文件下载(无修)：[OneDrive](https://107chj-my.sharepoint.com/:f:/g/personal/asc_107chj_onmicrosoft_com/EoFQCV5POXFLqTgFseYbewwBJfOMhCkD0f5-0Y219BPP0g?e=D6eHM8)
+文件下载(无修)：[OneDrive](https://107chj-my.sharepoint.com/:f:/g/personal/asc_107chj_onmicrosoft_com/EoFQCV5POXFLqTgFseYbewwBJfOMhCkD0f5-0Y219BPP0g?e=D6eHM8)（可在线）
 
 ### 在线
 
