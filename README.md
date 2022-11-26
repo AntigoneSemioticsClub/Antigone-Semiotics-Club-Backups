@@ -62,7 +62,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 + 小黑盒（不常用）：戏作三昧 
 
-+ 知乎（暂未启用）：符号社Antigone
++ 知乎（暂未启用）：[符号社Antigone](https://www.zhihu.com/people/antigone-73)
 
 ---
 ![](https://preview.redd.it/gsrdirl9txa91.png?width=1890&format=png&auto=webp&s=c5703b0797f13740cc6890b6adbbaed02c435b1f)
