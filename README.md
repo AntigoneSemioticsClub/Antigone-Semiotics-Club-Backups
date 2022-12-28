@@ -1,6 +1,6 @@
 # 本项目用于符号社Antigone留档
 
-文章版权均归其中注明的作者所有，欢迎大家转载分享，但是需要注明出处。
+文章版权均归其中注明的作者所有，欢迎大家转载分享，但是需要注明出处，请勿用于商业用途。
 
 如有发现空文件或者缺失说明正在施工中，还请稍安勿躁。
 
@@ -30,7 +30,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 自制部分：
 
-+ [深度解析游戏：《以撒的结合》为什么不仅仅是宗教悲剧？](https://www.bilibili.com/video/BV1ua411t7R4/)
++ [深度解析游戏：《以撒的结合》为什么不仅仅是宗教悲剧？](https://www.bilibili.com/video/BV1ua411t7R4)
 + [女性到底想要什么？——从性别对立到主体与他者的对立](https://www.bilibili.com/video/BV1dS4y1A72x)
 + ["虚拟主播的粉丝错在哪里"——纯粹符号躯体背后的主体异化](https://www.bilibili.com/video/BV19A4y1S7sK)
 + [解读英雄联盟动画——社会的创伤性内核](https://www.bilibili.com/video/BV1o94y1m7dG)
@@ -38,9 +38,9 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [我去，你们说的那个UP是小布——对视频《二舅》的批判](https://www.bilibili.com/video/BV1RG4y1v7hk)
 + [李易峰和奶奶——在两种死亡之间](https://www.bilibili.com/video/BV1fD4y1v7HQ)
 + [为什么必须要抽干水来抓捕入侵物种？——意识形态的崇高客体](https://www.bilibili.com/video/BV1314y187nX)
-+ [对《电锯人》的精神分析——对阉割的拒绝](https://www.bilibili.com/video/BV1gG411A7Kq/)（有打码）
-+ [新世纪灵修运动与后现代诺斯替主义](https://www.bilibili.com/video/BV18841187Zm)（大幅度删减，打码）
-+ [艺术已死？！现代人的审美想象力该何去何从？](https://www.bilibili.com/video/BV1Dg411b7sh/)（有贴图打码）
++ [对《电锯人》的精神分析——对阉割的拒绝](https://www.bilibili.com/video/BV1gG411A7Kq)（有打码）
++ [新世纪灵修运动与后现代诺斯替主义](https://www.bilibili.com/video/BV18841187Zm)（画面大幅度删改，打码）
++ [艺术已死？！现代人的审美想象力该何去何从？](https://www.bilibili.com/video/BV1Dg411b7sh)（有贴图打码）
 
 翻译部分：
 
