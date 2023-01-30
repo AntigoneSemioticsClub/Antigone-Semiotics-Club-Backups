@@ -41,6 +41,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [对《电锯人》的精神分析——对阉割的拒绝](https://www.bilibili.com/video/BV1gG411A7Kq)（有打码）
 + [新世纪灵修运动与后现代诺斯替主义](https://www.bilibili.com/video/BV18841187Zm)（画面大幅度删改，打码）
 + [艺术已死？！现代人的审美想象力该何去何从？](https://www.bilibili.com/video/BV1Dg411b7sh)（有贴图打码）
++ [分析牛魔酬宾：从“牛魔酬宾”到“鸡你太美”——剩余的剩余快感](https://www.bilibili.com/video/BV1fD4y1E7fX/)
 
 翻译部分：
 
