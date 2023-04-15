@@ -63,8 +63,6 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 + TG频道：https://t.me/antigonesemioticsclubchannel
 
-+ 小黑盒（不常用）：戏作三昧 
-
 + 知乎（暂未启用）：[符号社Antigone](https://www.zhihu.com/people/antigone-73)
 
 ---
