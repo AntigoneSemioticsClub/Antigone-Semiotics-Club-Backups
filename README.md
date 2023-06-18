@@ -22,7 +22,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 ### 网盘
 
-文件下载(无修)：[OneDrive](https://107chj-my.sharepoint.com/:f:/g/personal/asc_107chj_onmicrosoft_com/EoFQCV5POXFLqTgFseYbewwBJfOMhCkD0f5-0Y219BPP0g?e=D6eHM8)（可在线）
+文件下载(无修)：[OneDrive（已失效，施工中）](https://107chj-my.sharepoint.com/:f:/g/personal/asc_107chj_onmicrosoft_com/EoFQCV5POXFLqTgFseYbewwBJfOMhCkD0f5-0Y219BPP0g?e=D6eHM8)（可在线）
 
 ### 在线
 
