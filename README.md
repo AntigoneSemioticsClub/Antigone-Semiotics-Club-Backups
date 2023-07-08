@@ -22,7 +22,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 ### 网盘
 
-文件下载(无修)：[OneDrive（已失效，施工中）](https://107chj-my.sharepoint.com/:f:/g/personal/asc_107chj_onmicrosoft_com/EoFQCV5POXFLqTgFseYbewwBJfOMhCkD0f5-0Y219BPP0g?e=D6eHM8)（可在线）
+文件下载(无修)：[OneDrive](https://antigonesemioticsclub-my.sharepoint.com/:f:/g/personal/share_antigonesemioticsclub_onmicrosoft_com/EsFrF1kbDDhNs0e_-AsavQcBCc8VSTR5iTpmdIvhlukqDQ?e=VcnRFT)（可在线）
 
 ### 在线
 
@@ -43,6 +43,8 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [艺术已死？！现代人的审美想象力该何去何从？](https://www.bilibili.com/video/BV1Dg411b7sh)（有贴图打码）
 + [分析牛魔酬宾：从“牛魔酬宾”到“鸡你太美”——剩余的剩余快感](https://www.bilibili.com/video/BV1fD4y1E7fX/)
 + [以狭隘视角解读《流浪地球2》](https://www.bilibili.com/video/BV1Bx4y1c751/)
++ [熊猫、黄谣和西瓜人——赛博社会的“套中人”](https://www.bilibili.com/video/BV13h4y1W7JK/)
++ [幻想的XP与虚假的攻击性——阳痿的意识形态](https://www.bilibili.com/video/BV1Sk4y1K785/)
 
 翻译部分：
 
