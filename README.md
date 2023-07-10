@@ -44,7 +44,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [分析牛魔酬宾：从“牛魔酬宾”到“鸡你太美”——剩余的剩余快感](https://www.bilibili.com/video/BV1fD4y1E7fX/)
 + [以狭隘视角解读《流浪地球2》](https://www.bilibili.com/video/BV1Bx4y1c751/)
 + [熊猫、黄谣和西瓜人——赛博社会的“套中人”](https://www.bilibili.com/video/BV13h4y1W7JK/)
-+ [幻想的XP与虚假的攻击性——阳痿的意识形态](https://www.bilibili.com/video/BV1Sk4y1K785/)
++ [幻想的XP与虚假的攻击性——阳痿的意识形态（已和谐）](https://www.bilibili.com/video/BV1Sk4y1K785/)
 
 翻译部分：
 
