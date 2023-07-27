@@ -26,6 +26,8 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 ### 在线
 
+#### YouTube：[Antigone Semiotics Club](https://www.youtube.com/channel/UCsG5Ku6sdc-VcWe-hDrs1Fg)（如因版权删减会在简介写明）
+
 #### B站已发布视频在线链接（下面视频链接以时间为序）：
 
 自制部分：
