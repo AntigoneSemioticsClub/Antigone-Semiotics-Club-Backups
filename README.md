@@ -48,6 +48,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [熊猫、黄谣和西瓜人——赛博社会的“套中人”](https://www.bilibili.com/video/BV13h4y1W7JK/)
 + [幻想的XP与虚假的攻击性——阳痿的意识形态](https://www.bilibili.com/video/BV1Sk4y1K785/)（已和谐）
 + [教你看《芭比》——失败的女权主义电影](https://www.bilibili.com/video/BV1R94y1Y7dr/)
++ [鸭脖过街人人喊打——符号权力鸭脖大战实在幽灵鼠头如何导致大他者缝合失败](https://www.bilibili.com/video/BV1mh4y1D7oE/)
 
 翻译部分：
 
