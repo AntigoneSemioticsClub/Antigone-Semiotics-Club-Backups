@@ -49,6 +49,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [幻想的XP与虚假的攻击性——阳痿的意识形态](https://www.bilibili.com/video/BV1Sk4y1K785/)（B站已和谐且无法补档）[（YouTube链接）](https://www.youtube.com/watch?v=jYx5pvxeVl4)
 + [教你看《芭比》——失败的女权主义电影](https://www.bilibili.com/video/BV1R94y1Y7dr/)
 + [鸭脖过街人人喊打——符号权力鸭脖大战实在幽灵鼠头如何导致大他者缝合失败](https://www.bilibili.com/video/BV1mh4y1D7oE/)
++ [是周淑怡去了疯马秀还是Lisa嫁给了皮几万？——对偶像与主播的精神分析](https://www.bilibili.com/video/BV1RC4y1o7oj/)
 
 翻译部分：
 
