@@ -50,6 +50,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [教你看《芭比》——失败的女权主义电影](https://www.bilibili.com/video/BV1R94y1Y7dr/)
 + [鸭脖过街人人喊打——符号权力鸭脖大战实在幽灵鼠头如何导致大他者缝合失败](https://www.bilibili.com/video/BV1mh4y1D7oE/)
 + [是周淑怡去了疯马秀还是Lisa嫁给了皮几万？——对偶像与主播的精神分析](https://www.bilibili.com/video/BV1RC4y1o7oj/)
++ [对野兽先生的精神分析——作为假奶子的臀部](https://www.bilibili.com/video/BV1H6421c7FB)
 
 翻译部分：
 
