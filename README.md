@@ -53,6 +53,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [对野兽先生的精神分析——作为假奶子的臀部](https://www.bilibili.com/video/BV1H6421c7FB/)
 + [山火、梅西、战马行动与农夫山泉——日本间谍迷思的被害臆想与精神病理学的日本人圣状](https://www.bilibili.com/video/BV1W6421w7Mw/)
 + [对权力系统的邪教式崇拜——周处除三害将人规训为主权者的狂信徒](https://www.bilibili.com/video/BV1Rr421n7r5/)（有删减）
++ [虐猫与男娘——作为真实的虚拟](https://www.bilibili.com/video/BV1Ef421i7EC/)
 
 翻译部分：
 
