@@ -69,11 +69,15 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 
 + 油管：[Antigone Semiotics Club](https://www.youtube.com/channel/UCsG5Ku6sdc-VcWe-hDrs1Fg)
 
-+ Reddit Sub（不常用）：[r/SemioticsClub](https://www.reddit.com/r/SemioticsClub/)
++ 机核：[符号社Antigone](https://www.gcores.com/users/585109/talks)
+
++ 小黑盒：[符号社Antigone](https://www.xiaoheihe.cn/app/user/profile/22452481)
 
 + TG群：https://t.me/antigonesemioticsclub
 
 + TG频道：https://t.me/antigonesemioticsclubchannel
+
++ Reddit Sub（不常用）：[r/SemioticsClub](https://www.reddit.com/r/SemioticsClub/)
 
 + 知乎（暂未启用）：[符号社Antigone](https://www.zhihu.com/people/antigone-73)
 
