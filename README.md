@@ -55,6 +55,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [对权力系统的邪教式崇拜——周处除三害将人规训为主权者的狂信徒](https://www.bilibili.com/video/BV1Rr421n7r5/)（有删减）
 + [虐猫与男娘——作为真实的虚拟](https://www.bilibili.com/video/BV1Ef421i7EC/)
 + [耶稣和夏娃都是变性人——政治神学论跨性别者是上帝钟爱的选民](https://www.bilibili.com/video/BV1eotbevEXJ/)
++ [精神分析《米塔》——对原乐的抵御](https://www.bilibili.com/video/BV1zJA5eTEho/)
 
 翻译部分：
 
