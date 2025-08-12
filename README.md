@@ -2,7 +2,7 @@
 
 文章版权均归其中注明的作者所有，欢迎大家转载分享，但是需要注明出处，请勿用于商业用途。
 
-**[官方博客](https://antigonesemiotics.club)正式上线（试运行），欢迎大家收藏访问。**
+**[官方博客](https://antigonesemiotics.club)正式上线，欢迎大家收藏访问。**
 
 ## 文章部分
 
@@ -56,6 +56,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [虐猫与男娘——作为真实的虚拟](https://www.bilibili.com/video/BV1Ef421i7EC/)
 + [耶稣和夏娃都是变性人——政治神学论跨性别者是上帝钟爱的选民](https://www.bilibili.com/video/BV1eotbevEXJ/)
 + [精神分析《米塔》——对原乐的抵御](https://www.bilibili.com/video/BV1zJA5eTEho/)
++ [“哦对了”与意识形态粪坑——无“羞耻”的新时代](https://www.bilibili.com/video/BV1SNtSzgE4t/)
 
 翻译部分：
 
