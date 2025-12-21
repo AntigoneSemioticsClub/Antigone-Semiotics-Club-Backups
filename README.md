@@ -58,6 +58,7 @@ __该目录下的MD格式文章均为最新（相较于公众号）无敏感修�
 + [精神分析《米塔》——对原乐的抵御](https://www.bilibili.com/video/BV1zJA5eTEho/)
 + [“哦对了”与意识形态粪坑——无“羞耻”的新时代（无修补档）](https://www.bilibili.com/video/BV1o2tZz5E6k/)
 + [性别对立的伪人游戏——意识形态场域的可持续战争](https://www.bilibili.com/video/BV1wKhDzgEsF/)
++ [papa的外化——精神分析的教父](https://www.bilibili.com/video/BV1A2UuBXEUy/)
 
 翻译部分：
 
